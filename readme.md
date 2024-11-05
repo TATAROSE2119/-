@@ -1,5 +1,11 @@
 #上传文件说明
 
+submission_samples用来训练模型
+
+valuation是未经贝叶斯优化的预测
+
+valuation是经过贝叶斯优化的预测
+
 ##文件内容概述：
 
 predictions1.csv 是使用评估数据集 13_Data_评估数据1.csv 的预测结果;
